@@ -1,0 +1,28 @@
+{
+  "layout":{
+    "children":[
+      {
+        "cls":"starling.display.Sprite",
+        "customParams":{
+          "source":"localization_test"
+        },
+        "params":{
+          "name":"localization_test"
+        }
+      }
+    ],
+    "cls":"starling.display.Sprite",
+    "customParams":{},
+    "params":{
+      "name":"root"
+    }
+  },
+  "setting":{
+    "canvasColor":16777215,
+    "canvasSize":{
+      "x":640,
+      "y":960
+    }
+  },
+  "version":"2.0"
+}
